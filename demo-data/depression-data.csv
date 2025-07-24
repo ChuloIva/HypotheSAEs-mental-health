@@ -1,0 +1,785 @@
+sentence,label
+I feel tired even after a full night's sleep.,1
+I often lack the energy to do things I used to enjoy.,1
+It's hard to concentrate on tasks these days.,1
+"I feel overwhelmed by small, everyday tasks.",1
+I sometimes feel like I’m moving through life in slow motion.,1
+I find myself avoiding social interactions more often.,1
+I often feel like I’m just going through the motions.,1
+It’s been hard to feel truly happy about anything recently.,1
+I sometimes feel irritable for no clear reason.,1
+I feel like I can’t keep up with everyone else.,1
+"I have trouble staying motivated, even for things I care about.",1
+"I often feel like I’m failing, even when I’m not.",1
+I feel more disconnected from people than I used to.,1
+It’s been hard to find meaning in what I do lately.,1
+I sometimes feel like I’m letting people down.,1
+I struggle to get out of bed some mornings.,1
+"I often feel empty, like something is missing.",1
+I’ve been feeling more indecisive than usual.,1
+I find it difficult to think positively about the future.,1
+I don’t feel as confident as I used to.,1
+I feel like my emotions are blunted or muted.,1
+I get frustrated with myself more easily.,1
+I sometimes feel like I’m just watching life go by.,1
+"I’ve been feeling more down than usual, but I can’t explain why.",1
+It’s hard to find joy in hobbies I used to love.,1
+I feel like I’m not as good at things as I used to be.,1
+I’ve been second-guessing myself more often.,1
+I find myself zoning out or daydreaming more frequently.,1
+I feel like I have to force myself to do things I once enjoyed.,1
+I sometimes feel like life is just a series of obligations.,1
+I often feel like my best isn’t good enough.,1
+I struggle to feel excited about things I used to look forward to.,1
+It’s been hard to focus on anything for long periods of time.,1
+I sometimes feel like I’m just floating through the day.,1
+I avoid starting tasks because they feel too overwhelming.,1
+I feel like I’m losing interest in things I used to care about.,1
+"I find myself feeling frustrated with small, everyday things.",1
+I sometimes feel like I don’t know who I am anymore.,1
+I feel disconnected from the people closest to me.,1
+I find it harder to make decisions than I used to.,1
+I feel like I’m constantly falling behind on life.,1
+I often feel like nothing I do really matters.,1
+I’ve noticed I’ve been more forgetful lately.,1
+I feel like I’m stuck in a rut and can’t get out.,1
+I often think that I’m not doing enough with my life.,1
+I feel like I’m running out of energy faster than before.,1
+"I sometimes find myself staring at nothing, lost in thought.",1
+I often feel like my life lacks purpose.,1
+I find myself procrastinating more than I used to.,1
+I often wish I could just take a break from everything.,1
+I sometimes feel like I’m on autopilot.,1
+I often feel like there’s a heavy weight on my chest.,1
+I feel like I’m not as close to my friends as I used to be.,1
+I sometimes feel like I’m the only one struggling.,1
+I find myself overthinking simple decisions.,1
+I often feel like I’m failing to meet my own expectations.,1
+I feel like my emotions are harder to control than before.,1
+I find it harder to laugh at things that used to be funny.,1
+I sometimes feel like I’m invisible to the people around me.,1
+I feel like I’m just waiting for something to change.,1
+"I feel like I’m always tired, no matter how much rest I get.",1
+I sometimes find myself zoning out and losing track of time.,1
+I avoid making plans because I don’t have the energy to follow through.,1
+I feel like I don’t have the mental energy to deal with challenges.,1
+I often replay small mistakes in my mind and feel bad about them.,1
+I sometimes feel like I don’t deserve to be happy.,1
+I have moments where I feel down for no apparent reason.,1
+I feel like my mind is constantly foggy and unclear.,1
+I find it difficult to get motivated to do basic tasks.,1
+"I sometimes feel like I’m an outsider, even among friends.",1
+I don’t feel like celebrating good news as much as I used to.,1
+I often think about the things I haven’t accomplished.,1
+I feel like I’ve been less creative and inspired lately.,1
+I sometimes feel like everything is harder than it should be.,1
+I avoid talking about my feelings because I don’t want to burden others.,1
+I feel like I’m running on autopilot most of the time.,1
+I’ve been sleeping more than usual but still feel exhausted.,1
+I feel like I’m less connected to the things that used to make me happy.,1
+I sometimes feel like I’m wasting my potential.,1
+I’ve been withdrawing from social events more often.,1
+I sometimes cry without really knowing why.,1
+I feel like I’m not living up to the expectations I set for myself.,1
+I often feel overwhelmed even by simple decisions.,1
+I have a hard time remembering the last time I felt truly happy.,1
+I feel like I’m constantly fighting an uphill battle.,1
+I sometimes feel like I don’t belong anywhere.,1
+I find myself questioning the purpose of things I do.,1
+I avoid making commitments because I’m afraid I won’t follow through.,1
+I sometimes feel like my emotions are just too much to handle.,1
+I feel like I’ve been neglecting parts of my life that used to matter.,1
+"I feel like I’m just going through the motions, and while nothing is outright terrible, everything feels dull and meaningless.",1
+"I’ve been feeling more disconnected lately, like the people around me are moving forward while I’m standing still.",1
+"Sometimes, I catch myself zoning out for long periods, lost in thoughts about how much better life used to feel.",1
+It’s hard to focus on even simple tasks because my mind keeps drifting to a vague sense of unease I can’t explain.,1
+"I’ve noticed that I’ve been pulling back from social plans, not because I don’t care, but because I don’t feel up to being around people.",1
+"There’s this persistent heaviness in my chest, not overwhelming but enough to make everything feel like an effort.",1
+"Even though I manage to get through the day, I often feel like I’m not doing enough or falling short in some way.",1
+"I find myself second-guessing things I used to be confident about, and it’s exhausting to feel this unsure all the time.",1
+I’ve been feeling like the things that used to bring me joy now just feel like another obligation on my to-do list.,1
+"Sometimes, I feel like I’m fading into the background of my own life, not present enough to fully engage with anything.",1
+"I keep telling myself that things will get better, but lately, it’s been harder to believe my own reassurance.",1
+"Even when I’m around friends, I feel like I’m holding back because I don’t want to bring anyone else down.",1
+"I’ve been sleeping more than usual, but no matter how much I rest, I still feel tired and unmotivated.",1
+I often feel like I’m carrying around an invisible weight that no one else can see or understand.,1
+"It’s not that I’m unhappy all the time, but it feels like my good days don’t shine as brightly as they used to.",1
+I’ve noticed myself avoiding difficult conversations or situations because I just don’t have the energy to handle them.,1
+"I feel like my emotions are muted, as if I’m watching my life happen instead of truly living it.",1
+"There are moments when I’m busy with something, but a wave of sadness will suddenly hit me out of nowhere.",1
+"I’ve been procrastinating more lately, not because I don’t care, but because it feels so hard to get started on anything.",1
+"I feel like I’m stuck in a gray area where things aren’t terrible, but they’re far from good, and I don’t know how to change it.",1
+"
+      Lately, I’ve been feeling like I’m moving through life in slow motion, as if the colors and vibrancy of the world have faded into muted shades of gray;
+      it’s not that I’m completely unhappy, but everything feels just a little bit harder than it should, and even the things I used to enjoy, like spending
+      time with friends or diving into my hobbies, feel more like chores I have to convince myself to do rather than activities I genuinely look forward to;
+      I catch myself wondering why I can’t just snap out of it, as if there’s some invisible barrier between me and the sense of fulfillment I used to have,
+      and it’s frustrating because I know deep down that I have so much to be grateful for, yet I can’t seem to shake this subtle but persistent
+      heaviness that clouds my thoughts; I still manage to get through the day, ticking off tasks and responsibilities, but there’s this underlying
+      sense that I’m not fully present, like I’m just going through the motions rather than actually living, and it’s hard to put into words exactly
+      why I feel this way or what’s causing it, which only makes it more confusing and exhausting to deal with.
+      ",1
+I feel like there’s no point in trying because nothing ever changes.,1
+I sometimes feel like I’m stuck in a dark place I can’t escape from.,1
+I find it hard to imagine ever feeling happy again.,1
+I often feel like I’m a burden to the people around me.,1
+I sometimes wonder if my life has any real value.,1
+I feel like the weight of everything is crushing me.,1
+I often feel completely detached from the world around me.,1
+I feel like I’ve lost a part of myself I’ll never get back.,1
+I’ve been avoiding people entirely because it feels too overwhelming.,1
+I sometimes feel like I don’t have the strength to keep going.,1
+I feel completely hopeless and like nothing will ever get better.,1
+"I have absolutely no energy or motivation to do anything, even things I used to enjoy.",1
+I feel worthless and like a burden to everyone around me.,1
+"I can't seem to concentrate on anything, and my memory is terrible.",1
+"I've lost all interest in things I used to care about, even my hobbies and relationships.",1
+I feel like I'm trapped in a dark hole with no way out.,1
+"I experience overwhelming feelings of sadness, anxiety, and emptiness almost every day.",1
+"I have trouble sleeping or I sleep too much, and I always feel tired.",1
+My appetite has changed drastically; I either eat too much or not enough.,1
+I have recurring thoughts of death or suicide.,1
+I feel like I'm a failure in every aspect of my life.,1
+"I'm constantly irritable and agitated, and I have a short fuse.",1
+"I have physical symptoms like headaches, stomachaches, and body aches that won't go away.",1
+I feel disconnected from reality and like I'm just going through the motions.,1
+I avoid social situations and isolate myself from others.,1
+"I have difficulty making decisions, even simple ones.",1
+I feel like I'm a burden to my family and friends.,1
+I have no self-esteem and feel like I'm not good enough.,1
+I'm constantly criticizing myself and focusing on my flaws.,1
+I feel like I'm losing control of my thoughts and emotions.,1
+I have trouble controlling my anger and I lash out at others.,1
+I feel like I don't deserve to be happy.,1
+I'm afraid of the future and I don't see any hope for things to get better.,1
+I feel like I'm drowning in sadness and I can't escape.,1
+"I'm so exhausted from fighting this depression, I just want to give up.",1
+I feel like I'm a disappointment to everyone who cares about me.,1
+I'm ashamed of how I feel and I don't want to talk about it.,1
+I feel like I'm all alone in this and no one understands.,1
+I'm terrified of what might happen if I don't get help.,1
+I just want the pain to stop.,1
+I just want the pain to stop.,1
+I feel completely numb and empty inside.,1
+I can’t see any way out of this darkness.,1
+I don’t think I have the strength to keep going anymore.,1
+"I feel like I’m drowning, and no one can help me.",1
+I can’t remember the last time I felt any joy.,1
+I feel like I’m completely worthless.,1
+"I’ve been crying for hours, and I don’t even know why.",1
+I feel like my life has no meaning anymore.,1
+I just want to disappear and not feel anything.,1
+I feel like a burden to everyone around me.,1
+I can’t stop thinking that everyone would be better off without me.,1
+Every day feels like an unbearable struggle.,1
+I don’t have the energy to even get out of bed most days.,1
+I feel like I’m completely broken beyond repair.,1
+"I keep replaying all my failures in my mind, and it’s crushing me.",1
+I can’t stop feeling like I’m trapped in my own mind.,1
+I wish I could just sleep and never wake up.,1
+"I feel like I’m falling apart, and no one can see it.",1
+I have no hope that things will ever get better.,1
+I feel like I’ve lost every part of myself that mattered.,1
+I can’t even find the strength to pretend I’m okay anymore.,1
+It feels like there’s no escape from this pain.,1
+"I feel like I’m stuck in a black hole, and it’s pulling me deeper.",1
+"I hate myself for feeling this way, but I can’t stop.",1
+I’ve lost all interest in being alive.,1
+I feel like the world would be better off without me in it.,1
+I can’t stop feeling like everything is falling apart.,1
+"It’s like I’m watching my life crumble, and I’m powerless to stop it.",1
+"I feel like I’ve already given up, but I’m still here.",1
+"I feel like I'm a ghost, just drifting through life without purpose.",1
+"The simplest tasks feel impossible to accomplish, leaving me overwhelmed and defeated.",1
+I'm trapped in a cycle of negative thoughts that I can't seem to break free from.,1
+"My body feels heavy and weighed down, like I'm carrying the world on my shoulders.",1
+"I'm constantly on edge, feeling like something terrible is about to happen.",1
+I have no appetite and food has lost all appeal.,1
+I wake up every morning wishing I hadn't.,1
+I feel like I'm suffocating under the weight of my own sadness.,1
+"I'm so tired of feeling this way, but I don't have the strength to fight anymore.",1
+I feel like I'm a prisoner in my own mind.,1
+I'm haunted by feelings of guilt and regret over things I can't change.,1
+"I'm terrified of being alone, but I can't stand to be around people either.",1
+I feel like I'm falling apart and I can't put myself back together.,1
+I'm ashamed of my own emotions and I try to hide them from everyone.,1
+I feel like I'm a failure at everything I try.,1
+I'm constantly comparing myself to others and feeling inadequate.,1
+I have no joy in my life and I can't remember the last time I truly smiled.,1
+I feel like I'm a burden to everyone around me and they would be better off without me.,1
+I have thoughts of self-harm and I can't seem to stop them.,1
+I feel like I'm living in a nightmare that I can't wake up from.,1
+"I'm so lost and confused, I don't know who I am anymore.",1
+I feel like I'm dying inside and there's nothing I can do to stop it.,1
+I'm afraid to ask for help because I don't want to be judged.,1
+I feel like I'm a disappointment to my family and friends.,1
+I'm so tired of pretending that everything is okay when it's not.,1
+I just want to disappear and forget about all my problems.,1
+"I feel like I'm screaming on the inside, but no one can hear me.",1
+I'm so angry at myself for letting things get this bad.,1
+I feel like there's no point in trying anymore.,1
+"Every day feels like an endless cycle of hopelessness and despair; I wake up feeling like there’s no point in trying, go through the motions with no energy or motivation, and fall asleep wishing I wouldn’t wake up, only for it all to repeat.",1
+"I constantly feel like I’m trapped in a dark, suffocating void where even the simplest tasks feel impossible, and no matter how hard I try to fight it, the overwhelming weight of sadness and emptiness always pulls me back down.",1
+"It feels like every ounce of strength has been drained from my body and mind, leaving me unable to connect with others, find joy in anything, or even imagine a future where this pain and darkness aren’t consuming every part of me.",1
+"No matter how much I try to explain what I’m feeling, I end up pushing people away because they don’t understand how every single moment of my existence feels like a battle I’m losing, and it just makes me feel even more isolated and alone.",1
+"The world feels like it’s closing in on me, and I’m overwhelmed by this unbearable sense of failure and inadequacy, like I’ll never be enough for anyone, including myself, and I don’t even know how to keep going like this anymore.",1
+"I wake up with a deep sense of dread and go to bed with tears in my eyes, constantly haunted by thoughts of how everything I’ve done has been a mistake, and the idea of escaping this endless misery is the only thought that brings any relief.",1
+"It’s like there’s a storm inside me that never stops raging, and no matter how much I try to move forward or distract myself, the weight of my sadness, self-hatred, and hopelessness keeps pulling me further into this endless darkness.",1
+"I’ve reached a point where I feel like I’m no longer living, just existing in a constant state of pain and detachment, unable to find joy, purpose, or even the will to try anymore because everything feels so overwhelmingly pointless.",1
+"There’s a constant, gnawing ache in my chest that makes it hard to breathe, and every moment feels like a cruel reminder of how broken and useless I’ve become, as if I’m just waiting for the inevitable end of all this suffering.",1
+"It feels like every connection I’ve ever had is slipping away, and no matter how much I want to reach out, I can’t find the strength or words because the pain and emptiness inside me are too overwhelming to express or share.",1
+"Every interaction feels like an exhausting performance because deep down, I’m overwhelmed by this unshakable feeling that I don’t belong anywhere, and I’m terrified that if people knew how broken I truly am, they would abandon me completely.",1
+"I feel like I’m trapped in a never-ending loop where each day blurs into the next, filled with this heavy, unrelenting sadness that I can’t explain or escape, and I no longer have the strength to fight against it.",1
+"I’ve lost the ability to find joy in anything, and even the things that once gave me purpose now feel hollow and meaningless, leaving me with an overwhelming sense of emptiness that grows deeper with every passing day.",1
+"The more I try to talk about how I feel, the more I realize that words can’t capture the depth of this pain, and it makes me feel even more isolated, as though I’m screaming into a void that no one else can hear.",1
+"It feels like my body is here, but my mind is somewhere else entirely, lost in a fog of despair and hopelessness that makes everything seem so far away and unreachable, like I’m slowly fading out of existence.",1
+"I’m haunted by this constant, gnawing fear that I’ll never feel normal again, that this darkness and sadness will consume me forever, and the thought of living like this for even one more day feels unbearable.",1
+"Every time I try to explain my feelings, I end up feeling worse because it’s clear that no one truly understands the depth of my pain, and their attempts to help only make me feel more broken and beyond saving.",1
+"I spend most of my time staring at the ceiling, lost in a fog of painful memories and regrets, unable to shake the belief that my life has no meaning and that I’ve already failed at everything that truly matters.",1
+"It’s as if I’m surrounded by a wall of darkness that blocks out any light or hope, and no matter how much I try to break through it, I just end up exhausted and defeated, sinking further into this overwhelming void.",1
+"The pain I feel is so overwhelming and constant that it’s hard to believe anyone else has ever felt this way, and it makes me feel completely alone, as though I’m drowning in an ocean where no one else can see me.",1
+I feel like I’ve failed at everything that truly matters.,1
+I can’t stand myself or the person I’ve become.,1
+I feel like my existence is just a burden on everyone else.,1
+I wish I could just disappear and not feel this pain anymore.,1
+I feel completely broken and beyond repair.,1
+Every day feels like an unbearable struggle I can’t escape.,1
+I can’t stop feeling like my life has no purpose or value.,1
+I feel like I’ve lost everything that ever mattered to me.,1
+I don’t think I’ll ever be happy or normal again.,1
+I feel like I’m trapped in a never-ending cycle of pain.,1
+"It’s like I’m drowning, and no one can see or help me.",1
+"I feel like I’ll never be good enough for anyone, including myself.",1
+I don’t have the strength to keep pretending I’m okay.,1
+"I feel like my mind is constantly stuck in a dark, hopeless place.",1
+I can’t remember the last time I didn’t feel this heavy sadness.,1
+I feel like I’ve lost all connection to the world around me.,1
+I’ve been stuck in this endless darkness for what feels like forever.,1
+I feel like I’m losing my grip on reality and can’t find my way back.,1
+I don’t see the point in anything I do anymore.,1
+I feel like I’m carrying a crushing weight that I can’t put down.,1
+I’m so exhausted by life that I don’t even want to try anymore.,1
+"It’s like I’m invisible to everyone, and no one cares that I’m hurting.",1
+"I feel like I’m constantly falling apart, piece by piece.",1
+I can’t imagine a future that doesn’t feel as bleak as this.,1
+"I feel like I’ve been abandoned by everyone, even myself.",1
+I’m scared I’ll never feel normal or happy again.,1
+I feel like the pain inside me is consuming everything else.,1
+I don’t even recognize myself anymore because of how much I’ve changed.,1
+I feel like my emotions are so overwhelming that they’re crushing me.,1
+"I feel like I’ve lost all hope, and I don’t know how to keep going.",1
+I feel like every step I take just leads me deeper into a darkness I can’t escape.,1
+"No matter how hard I try to fight it, this overwhelming sadness consumes me every day.",1
+It feels like my entire existence has been reduced to enduring pain that never ends.,1
+"I spend hours staring at the ceiling, wondering if I’ll ever feel whole again.",1
+"I feel like I’m invisible to the world, screaming for help that no one hears.",1
+The weight of my own thoughts feels so heavy that I can barely keep moving forward.,1
+"I can’t remember the last time I felt joy, and it scares me to think I might never feel it again.",1
+"Even when I’m surrounded by people, I feel completely alone and disconnected.",1
+"Every attempt to feel better feels pointless, like I’m stuck in a cycle of endless despair.",1
+"I wake up each morning hoping for relief, but instead, the sadness grows stronger.",1
+It’s like my mind is trapped in an endless loop of painful memories and regrets.,1
+"I feel like my body is here, but my mind is somewhere far away, lost in despair.",1
+I’ve lost all motivation to do anything because nothing feels worthwhile anymore.,1
+The emptiness I feel inside is so overwhelming that it’s hard to focus on anything else.,1
+"I feel like my life has become a shadow of what it once was, and I can’t bring it back.",1
+"No matter how much I try, I can’t shake the belief that I’m failing at everything.",1
+"Every interaction with others feels forced, like I’m wearing a mask that’s breaking.",1
+"I feel like I’m a shell of who I used to be, and I don’t know how to get myself back.",1
+"I wish I could feel something other than this emptiness, but nothing seems to help.",1
+I feel like I’m stuck in a fog so thick that I can’t see a way out.,1
+"Every time I try to push through this pain, it feels like I’m sinking even deeper.",1
+I’ve been avoiding everyone because I’m afraid they’ll see how broken I am.,1
+The thought of facing another day fills me with dread that I can’t put into words.,1
+"It’s like I’m trapped in a storm, and no matter what I do, it keeps getting worse.",1
+I feel like my heart is weighed down by sadness that won’t go away.,1
+I’ve been so disconnected from myself that I barely recognize who I am anymore.,1
+I feel like every effort I make to fix my life just ends in failure.,1
+I can’t escape the feeling that I’m broken in ways that can’t ever be repaired.,1
+"I feel like my life is slipping through my fingers, and there’s nothing I can do to stop it.",1
+"Every moment feels like an eternity, filled with nothing but pain and hopelessness.",1
+"I feel like I’m trapped in an endless void, where every single day is a struggle to breathe, to move, to even exist, and no matter how hard I try to claw my
+      way out, it feels like the darkness keeps pulling me deeper, suffocating me with thoughts of worthlessness and failure;
+      it’s as if I’m drowning in a sea of my own despair, with waves crashing over me, stealing away any glimmer of hope I might have had left,
+      and even when I try to reach out for help, the words feel stuck in my throat because I’m terrified that no one will understand or worse,
+      that they’ll see just how broken I really am; I can’t shake the overwhelming belief that I’m a burden to everyone around me, that my existence
+     only causes pain and disappointment, and it’s so exhausting to carry this weight, to pretend like I’m okay when inside I’m falling apart;
+     every attempt I make to find joy or purpose feels hollow, like I’m just going through the motions of life without actually living, and it’s hard to
+     imagine a future where this relentless sadness and emptiness don’t consume me entirely, leaving nothing behind but the fragments of who I used to be.
+     ",1
+I feel energized and excited about starting new projects this week.,0
+I woke up feeling refreshed and ready to take on the day.,0
+I'm grateful for the supportive people in my life.,0
+I'm proud of myself for accomplishing my goals.,0
+I find joy in the simple things in life.,0
+I'm looking forward to spending time with loved ones this weekend.,0
+I'm content with my life and where I am at right now.,0
+I'm excited to learn new things and expand my knowledge.,0
+I feel confident in my ability to overcome challenges.,0
+I'm optimistic about the future and what it holds.,0
+I'm comfortable expressing my emotions and sharing my thoughts with others.,0
+I have a strong sense of purpose and meaning in my life.,0
+I enjoy spending time in nature and appreciate the beauty around me.,0
+I feel connected to something greater than myself.,0
+I'm able to forgive myself for my mistakes and move forward.,0
+I'm resilient and able to bounce back from setbacks.,0
+I have a positive outlook on life and try to see the good in every situation.,0
+I'm passionate about my hobbies and interests.,0
+I have a good sense of humor and enjoy laughing.,0
+I'm able to maintain healthy relationships with others.,0
+I feel loved and appreciated by those around me.,0
+I'm able to set boundaries and prioritize my own needs.,0
+I'm comfortable being alone and enjoy my own company.,0
+I'm able to relax and de-stress when needed.,0
+I take care of my physical and mental health.,0
+I'm able to focus on the present moment and appreciate the here and now.,0
+I'm open to new experiences and opportunities.,0
+"I'm creative and enjoy expressing myself through art, music, or writing.",0
+I'm able to learn from my mistakes and grow as a person.,0
+I'm kind and compassionate towards others.,0
+I'm honest with myself and others.,0
+I have a strong sense of self-worth.,0
+I'm able to accept things I cannot change.,0
+I'm grateful for all the good things in my life.,0
+I'm able to find peace and serenity within myself.,0
+I'm hopeful about the future and excited for what's to come.,0
+I'm able to live a fulfilling and meaningful life.,0
+I'm happy with who I am and where I'm going in life.,0
+I feel energized and excited about starting new projects this week.,0
+I woke up feeling refreshed and ready to take on the day.,0
+I'm grateful for the supportive people in my life.,0
+I'm proud of myself for accomplishing my goals.,0
+I find joy in the simple things in life.,0
+I'm looking forward to spending time with loved ones this weekend.,0
+I'm content with my life and where I am at right now.,0
+I'm excited to learn new things and expand my knowledge.,0
+I feel confident in my ability to overcome challenges.,0
+I'm optimistic about the future and what it holds.,0
+I'm comfortable expressing my emotions and sharing my thoughts with others.,0
+I have a strong sense of purpose and meaning in my life.,0
+I enjoy spending time in nature and appreciate the beauty around me.,0
+I feel connected to something greater than myself.,0
+I'm able to forgive myself for my mistakes and move forward.,0
+I'm resilient and able to bounce back from setbacks.,0
+I have a positive outlook on life and try to see the good in every situation.,0
+I'm passionate about my hobbies and interests.,0
+I have a good sense of humor and enjoy laughing.,0
+I'm able to maintain healthy relationships with others.,0
+I feel loved and appreciated by those around me.,0
+I'm able to set boundaries and prioritize my own needs.,0
+I'm comfortable being alone and enjoy my own company.,0
+I'm able to relax and de-stress when needed.,0
+I take care of my physical and mental health.,0
+I'm able to focus on the present moment and appreciate the here and now.,0
+I'm open to new experiences and opportunities.,0
+"I'm creative and enjoy expressing myself through art, music, or writing.",0
+I'm able to learn from my mistakes and grow as a person.,0
+I'm kind and compassionate towards others.,0
+I'm honest with myself and others.,0
+I have a strong sense of self-worth.,0
+I'm able to accept things I cannot change.,0
+I'm grateful for all the good things in my life.,0
+I'm able to find peace and serenity within myself.,0
+I'm hopeful about the future and excited for what's to come.,0
+I'm able to live a fulfilling and meaningful life.,0
+I'm happy with who I am and where I'm going in life.,0
+I feel energized and excited about starting new projects this week.,0
+I had a great time catching up with friends over the weekend.,0
+I’m looking forward to the trip I’ve been planning for months.,0
+I’ve been feeling more productive and focused at work lately.,0
+Spending time with my family always brightens my day.,0
+I love how peaceful it feels to take a walk in the park after work.,0
+I’m grateful for all the good things happening in my life right now.,0
+I feel confident in my ability to handle whatever challenges come my way.,0
+It’s satisfying to check off everything on my to-do list for the day.,0
+I’ve been enjoying learning new things and expanding my skills.,0
+I feel a deep sense of accomplishment after finishing that big project.,0
+It’s so rewarding to help others and make a positive impact.,0
+I’m really happy with how everything is going at this moment in my life.,0
+I feel calm and at peace when I meditate in the mornings.,0
+I enjoy spending time in nature and soaking up the beauty around me.,0
+"I’ve been laughing a lot more lately, and it feels amazing.",0
+I love exploring new hobbies and discovering what I’m passionate about.,0
+I’m excited to start the new class I signed up for next month.,0
+It feels good to wake up refreshed and ready to take on the day.,0
+"I’ve been reconnecting with old friends, and it’s been wonderful.",0
+I feel proud of myself for sticking to my goals and making progress.,0
+It’s been a joy to spend quality time with my loved ones recently.,0
+"I find so much happiness in the small things, like a good cup of coffee.",0
+I feel optimistic about the future and what it holds for me.,0
+I’ve been really enjoying the books I’ve been reading lately.,0
+I’m thankful for the supportive people I have in my life.,0
+I feel confident and capable when tackling new challenges.,0
+"I’ve been making time to relax and take care of myself, and it feels great.",0
+I’m genuinely excited about the opportunities that are coming my way.,0
+"Life has been feeling full and meaningful, and I’m so grateful for it.",0
+"Every morning, I wake up feeling excited about the possibilities the day holds, and I’m grateful for the chance to make progress toward my goals.",0
+"Spending time with my close friends, sharing stories, and laughing until my stomach hurts always reminds me of how fulfilling life can be.",0
+"I’ve been challenging myself to step out of my comfort zone, and the sense of growth and accomplishment has been incredibly rewarding.",0
+"There’s a calm satisfaction I feel after finishing a project I’ve worked hard on, knowing I’ve given it my best effort.",0
+"As I sat by the lake, watching the sun set in a cascade of colors, I felt a deep sense of peace and appreciation for the beauty of the moment.",0
+"I’ve been finding so much joy in the little things, like the warmth of a sunny day, the aroma of fresh coffee, or the sound of birds chirping in the morning.",0
+"Learning a new skill has been a thrilling experience, and I’m amazed at how much I’ve accomplished in such a short period of time.",0
+"I feel deeply connected to my loved ones, and our shared laughter and support remind me how lucky I am to have them in my life.",0
+"Exploring a new city, with its vibrant culture and friendly people, filled me with a sense of wonder and excitement that I’ll carry with me for a long time.",0
+"I’ve been dedicating time to self-care, and it feels amazing to prioritize my well-being and see the positive impact it has on my energy and mood.",0
+"Each time I overcome a new challenge, I feel a renewed sense of confidence and determination to keep pushing toward my dreams.",0
+"There’s something incredibly fulfilling about helping others, and the gratitude and joy it brings me is a constant source of happiness.",0
+"Reconnecting with an old friend brought back so many wonderful memories, and it reminded me of how far I’ve come and how much I’ve grown.",0
+"I feel truly inspired by the people around me, and their achievements motivate me to work harder and believe in my own potential.",0
+"After months of effort, I’ve finally reached a major milestone, and the pride and joy I feel are more than worth all the hard work.",0
+"Taking time to reflect on my journey so far, I realize how much I have to be thankful for, and it fills me with hope for the future.",0
+"Spending time outdoors, surrounded by nature’s beauty, has been a grounding and uplifting experience that I look forward to each day.",0
+"I’ve been investing more time in hobbies I’m passionate about, and it’s incredible how much joy and fulfillment they bring into my life.",0
+"Seeing the progress I’ve made toward my fitness goals has been incredibly motivating, and I’m proud of the dedication I’ve shown.",0
+"I’ve been focusing on staying present in the moment, and it’s amazing how much more connected and content I feel as a result.",0
+"I've been focusing on staying present in the moment, and it's amazing how much more connected and content I feel as a result.",0
+"While I still experience moments of self-doubt, I've learned to challenge those negative thoughts and focus on my strengths instead.",0
+"Though work has been demanding lately, I'm finding healthy ways to manage stress, like taking short breaks to meditate and getting regular exercise.",0
+"It's been a journey, but I'm finally starting to feel comfortable in my own skin and embrace my imperfections.",0
+"Navigating social situations can be tricky, but I'm making progress in building genuine connections and communicating my needs effectively.",0
+"Even though life throws curveballs, I'm learning to adapt and find the silver linings in challenging situations.",0
+"I'm actively working on setting healthy boundaries in my relationships, and it's empowering to prioritize my own well-being.",0
+"I've been exploring new creative outlets, and it's incredibly fulfilling to express myself through painting and writing.",0
+"While I acknowledge my past struggles, I'm choosing to focus on the present and build a future filled with hope and possibility.",0
+"I'm learning to embrace vulnerability and allowing myself to be truly seen by others, which has deepened my relationships.",0
+I'm committed to personal growth and actively seeking opportunities to learn and expand my horizons.,0
+"Though I face challenges, I approach them with a sense of resilience and determination, knowing that I have the strength to overcome them.",0
+"I'm cultivating a sense of gratitude for the good things in my life, big and small, and it's shifting my perspective in a positive way.",0
+I'm actively practicing self-compassion and treating myself with the same kindness and understanding that I would offer a friend.,0
+I'm learning to trust my intuition and make decisions that align with my values and aspirations.,0
+"I'm finding joy in connecting with nature, whether it's a walk in the park or simply listening to the birds sing.",0
+"I'm making time for activities that bring me joy and recharge my spirit, like spending time with loved ones or pursuing my hobbies.",0
+I'm embracing the journey of self-discovery and learning to appreciate the unique person I am.,0
+I'm cultivating a sense of inner peace and finding moments of stillness amidst the chaos of daily life.,0
+I'm choosing to focus on the positive aspects of my life and letting go of negativity that no longer serves me.,0
+I’m feeling grateful for the people in my life who bring me joy and encouragement.,0
+"I’ve been making progress on my goals, and it’s exciting to see things come together.",0
+Spending time outdoors in the fresh air helps me feel rejuvenated and at peace.,0
+I’m learning to appreciate the small victories in my daily routine.,0
+I’m feeling confident in my ability to overcome challenges and keep growing.,0
+It’s been wonderful reconnecting with old friends and sharing happy memories.,0
+"I’m taking steps to build healthier habits, and it’s making a big difference in my energy.",0
+"I’ve been dedicating more time to my hobbies, and it’s brought me so much happiness.",0
+I’m excited about the opportunities that are coming my way and feel ready to take them on.,0
+I’m choosing to focus on what I can control and let go of what I cannot.,0
+I’ve been enjoying new experiences and learning more about myself in the process.,0
+Spending time with family always reminds me how much love and support I have in my life.,0
+I feel proud of myself for sticking to my commitments and seeing them through.,0
+I’m excited to see the results of all the hard work I’ve put into my projects.,0
+"I’ve been feeling more creative and inspired lately, and it’s been so fulfilling.",0
+The time I’ve spent on self-care has helped me feel more balanced and grounded.,0
+I’m focusing on living in the present moment and appreciating the beauty around me.,0
+I’m learning to celebrate my progress rather than dwell on what I haven’t achieved yet.,0
+I feel lighter now that I’ve started letting go of unnecessary stress and worries.,0
+I’m looking forward to exploring new places and making memories along the way.,0
+I’ve been inspired by the people around me who encourage me to keep improving.,0
+I’m feeling more motivated to tackle new challenges and push myself further.,0
+"The simple joys in life, like a good book or a peaceful walk, bring me happiness.",0
+"I feel like I’ve been growing as a person, and it’s rewarding to see that change.",0
+"I’ve been focusing on the positives in my life, and it’s made a noticeable difference.",0
+"I’m finding more reasons to smile each day, even in the little things.",0
+I’ve been investing time in relationships that uplift and inspire me.,0
+I’m embracing new opportunities that challenge me to step out of my comfort zone.,0
+I’m learning to be kinder to myself and to celebrate my strengths more often.,0
+I’ve been feeling more optimistic about what the future holds.,0
+Taking time to reflect on my achievements helps me feel proud and motivated.,0
+I’m choosing to fill my life with activities and people who bring me joy.,0
+I’ve been finding so much peace in simple routines and daily rituals.,0
+I’m grateful for how far I’ve come and the lessons I’ve learned along the way.,0
+"I’ve been prioritizing things that truly matter to me, and it feels great.",0
+I feel inspired to keep growing and evolving into the best version of myself.,0
+I’m learning to focus more on what I’ve achieved rather than what I haven’t.,0
+"I’m finding beauty and meaning in the small, quiet moments of my day.",0
+I’m grateful for the love and kindness I’ve received from those around me.,0
+I feel a renewed sense of energy and purpose in what I’m working toward.,0
+I’m looking forward to the opportunities and adventures that lie ahead.,0
+I’ve been feeling more at peace with myself and the decisions I’ve made.,0
+I feel strong and capable of handling the challenges that come my way.,0
+"I’m enjoying the process of learning and growing, even when it’s challenging.",0
+"I’m taking time to savor the small joys, like a beautiful sunset or a kind word.",0
+I’m proud of myself for showing resilience and perseverance during tough times.,0
+I’m excited to meet new people and learn from their unique perspectives.,0
+"I’ve been dedicating more time to what I’m passionate about, and it’s been rewarding.",0
+I’m feeling optimistic about creating a life that aligns with my values and goals.,0
+I woke up this morning feeling refreshed and excited for the day ahead.,0
+I'm grateful for my health and the ability to experience life's joys.,0
+I'm proud of myself for overcoming challenges and achieving my goals.,0
+I find joy in simple pleasures like spending time with loved ones and pursuing my hobbies.,0
+I'm looking forward to the future and all the possibilities it holds.,0
+I'm content with my life and appreciate the good things I have.,0
+I'm excited to learn new things and expand my knowledge.,0
+I feel confident in my abilities and believe in myself.,0
+I'm optimistic about the future and approach challenges with a positive attitude.,0
+I'm comfortable expressing my emotions and communicating my needs effectively.,0
+I have a strong sense of purpose and meaning in my life.,0
+I enjoy spending time in nature and appreciate the beauty around me.,0
+I feel connected to something greater than myself and find comfort in spirituality.,0
+I'm able to forgive myself for my mistakes and learn from them.,0
+I'm resilient and able to bounce back from setbacks.,0
+I have a positive outlook on life and try to see the good in every situation.,0
+I'm passionate about my hobbies and interests and enjoy pursuing them.,0
+I have a good sense of humor and enjoy laughing.,0
+I'm able to maintain healthy relationships with others and cherish my friendships.,0
+I feel loved and appreciated by those around me.,0
+I'm able to set boundaries and prioritize my own needs.,0
+I'm comfortable being alone and enjoy my own company.,0
+I'm able to relax and de-stress when needed.,0
+I take care of my physical and mental health by exercising and eating well.,0
+I'm able to focus on the present moment and appreciate the here and now.,0
+I'm open to new experiences and opportunities.,0
+"I'm creative and enjoy expressing myself through art, music, or writing.",0
+I'm able to learn from my mistakes and grow as a person.,0
+I'm kind and compassionate towards others.,0
+I'm honest with myself and others.,0
+I have a strong sense of self-worth and believe in my value as a person.,0
+I'm able to accept things I cannot change and focus on what I can control.,0
+"I'm grateful for all the good things in my life, both big and small.",0
+I'm able to find peace and serenity within myself through meditation or mindfulness.,0
+I'm hopeful about the future and excited for what's to come.,0
+I'm able to live a fulfilling and meaningful life.,0
+I'm happy with who I am and where I'm going in life.,0
+I enjoy challenges and see them as opportunities for growth.,0
+I have a strong support system and feel connected to others.,0
+I'm able to manage stress effectively and maintain a healthy work-life balance.,0
+I'm passionate about making a difference in the world and contributing to something meaningful.,0
+I'm curious about the world and enjoy exploring new places and cultures.,0
+I'm able to find humor in everyday situations and laugh at myself.,0
+I'm forgiving of myself and others and believe in second chances.,0
+I'm committed to personal growth and strive to be the best version of myself.,0
+I'm able to express my creativity and find outlets for my passions.,0
+I'm comfortable with vulnerability and allow myself to be authentic.,0
+I'm able to set realistic goals and work towards achieving them.,0
+I'm mindful of my thoughts and feelings and practice self-awareness.,0
+I'm able to let go of the past and focus on the present moment.,0
+"
+      I heard about what you’ve been going through recently, and I just wanted to let you know that I’m here for you. It’s not easy to cope with everything that’s happened,
+  but I hope you’re finding moments to take care of yourself. You’ve always been so strong and inspiring, and I’m confident you’ll navigate through this in your own time.
+  If you ever feel like talking or just need someone to listen, don’t hesitate to reach out. How have you been holding up through all of this?",0
+"
+    My friend has been struggling a lot lately, and I’ve been trying to support them however I can. They’ve always been such a caring and kind person, and I hope they know how much they’re valued.
+    I’ve been encouraging them to talk to someone about how they feel, but it’s been hard for them to open up. I just want to make sure they don’t feel alone in this.",0
+"
+    I’ve noticed my friend withdrawing more lately, and I’ve tried reaching out to check on them. I told them that it’s okay to take things one step at a time and that they don’t have to face this alone.
+    I just hope they know how much they mean to the people around them.",0
+"
+    My friend has been dealing with some really heavy feelings, and I’ve been trying to remind them of all the wonderful things they bring to the world. It’s tough to see them this way, but I know they’re strong.
+    I’ve offered to help them find resources or just be there to listen if they need someone.",0
+"
+    I’ve been concerned about a close friend of mine. They’ve been going through a rough time, and I’ve noticed they’ve been really down. I’ve tried to remind them that it’s okay to ask for help and that they don’t have to carry everything on their own.",0
+"
+    One of my friends has been facing severe challenges with their mental health, and it’s heartbreaking to see them like this. I’ve been reminding them that there’s no shame in seeking support and that I’m here for them whenever they need me.",0
+"
+    My friend has been struggling with depression, and it’s been hard to watch. I’ve encouraged them to take small steps toward feeling better and reminded them that recovery takes time and patience.
+    I just want to be a source of comfort and support for them.",0
+"
+    I’ve been trying to check in on a friend of mine who’s been feeling really low. I told them that they’ve always been such a strong person and that it’s okay to lean on others when times are tough.
+    I just hope they feel supported and loved.",0
+"
+    My friend confided in me that they’ve been feeling really overwhelmed, and I told them that I’m here to listen whenever they need to talk. I want to remind them that they don’t have to carry this burden alone.",0
+"
+    A friend of mine has been dealing with some dark days, and I’ve been trying to remind them that it’s okay to take things one step at a time. I told them that their feelings are valid and that it’s important to be kind to themselves.",0
+"
+    I’ve been reaching out to a friend who’s been struggling emotionally. I reminded them that they’ve faced tough times before and come through stronger, and I believe they can do it again.",0
+"
+    My friend has been really down lately, and I’ve been encouraging them to talk to someone they trust. I’ve also tried to remind them of all the positive things about themselves that I admire.",0
+"
+    It’s been hard to see my friend going through this, but I’ve been reminding them that they’re not alone. I’ve offered to help them in any way I can, even if it’s just being there to sit quietly together.",0
+"
+    I’ve been supporting a friend who’s been dealing with depression. I’ve told them that it’s okay to have bad days and that seeking help is a sign of strength, not weakness.",0
+"
+    My friend has been battling some tough emotions, and I’ve tried to remind them that it’s okay to take it one day at a time. I told them that I believe in them and that they’re capable of getting through this.",0
+"
+    I’ve been checking on a friend who’s been feeling really down. I told them that they’re incredibly strong and that it’s okay to lean on others for support during tough times.",0
+"
+    A close friend has been struggling with their mental health, and I’ve been doing my best to let them know I’m here for them. I’ve offered to help them find resources if they feel ready.",0
+"
+    My friend has been facing a lot lately, and I’ve tried to reassure them that it’s okay to take time to focus on their well-being. I want them to know they’re not alone in this.",0
+"
+    I’ve been reaching out to a friend who’s been feeling down, reminding them that they’ve always been a source of inspiration to me and that I’ll support them no matter what.",0
+"
+    A friend of mine has been dealing with depression, and I’ve been reminding them to be gentle with themselves. I told them that healing takes time and that it’s okay to ask for help.",0
+"
+    My friend has been going through a difficult time, and I’ve been doing my best to let them know how much they’re cared for. I’ve encouraged them to talk about how they’re feeling when they’re ready.",0
+"
+    My friend has been feeling a bit down lately, and I’ve been checking in to make sure they know I’m here for them. I told them it’s okay to take it easy and not push themselves too hard.",0
+"
+    A close friend of mine mentioned that they’ve been struggling with low energy recently, so I’ve been trying to encourage them to take small steps to focus on things they enjoy.",0
+"
+    My friend told me they’ve been feeling off for a while, and I’ve been reminding them that it’s okay to have periods like this and that things can get better with time.",0
+"
+    I’ve noticed my friend hasn’t been their usual self, so I’ve been encouraging them to focus on self-care and reminding them that they’re not alone in this.",0
+"
+    My friend shared that they’ve been feeling a bit disconnected, and I’ve been reassuring them that it’s okay to take a break and recharge when needed.",0
+"
+    A friend of mine has been feeling a little down lately, and I’ve been trying to remind them of all the things they’ve accomplished and how proud they should be of themselves.",0
+"
+    My friend has been dealing with some mild challenges recently, and I’ve been encouraging them to talk about how they feel and reminding them it’s okay to take their time to process things.",0
+"
+    I’ve been checking in with a friend who said they’ve been feeling a bit out of sorts. I’ve reminded them that everyone has ups and downs and that it’s okay to take things one day at a time.",0
+"
+    My friend mentioned they’ve been lacking motivation recently, so I’ve been encouraging them to start with small, manageable steps and not be too hard on themselves.",0
+"
+    I’ve been reaching out to a friend who’s been feeling mildly down, letting them know I’m here to talk whenever they need and that it’s okay to lean on others for support.",0
+"
+    A friend told me they’ve been feeling a bit low energy, so I’ve been trying to help them find ways to reconnect with the things they used to enjoy.",0
+"
+    I’ve been spending time with a friend who’s been feeling slightly off, reminding them that everyone has rough patches and that it’s okay to focus on the small positives in life.",0
+"
+    My friend shared they’ve been having a harder time concentrating, and I’ve been reassuring them that it’s a normal phase and that they’ll get through this.",0
+"
+    I’ve been checking in on a friend who’s been feeling a bit overwhelmed, reminding them that they’re doing their best and that’s more than enough.",0
+"
+    A close friend mentioned they’ve been feeling less motivated than usual, so I’ve been encouraging them to celebrate the small wins and not put too much pressure on themselves.",0
+"
+    My friend has been feeling a bit down recently, and I’ve been helping them find moments to enjoy and reminding them that it’s okay to take things slow.",0
+"
+    I’ve been talking with a friend who’s been feeling mildly down, and I’ve been letting them know that it’s okay to feel this way and that they’re not alone.",0
+"
+    My friend has been dealing with some mild sadness, and I’ve been reminding them to be kind to themselves and to take breaks when they need to.",0
+"
+    I’ve been trying to support a friend who mentioned they’ve been feeling slightly off, reminding them that it’s okay to ask for help if they need it and that I’m always here for them.",0
+"
+    A friend of mine has been experiencing some mild lows lately, and I’ve been encouraging them to focus on self-care and reminding them that brighter days are ahead.",0
+"
+    I've been sleeping 12 hours a day and barely eating anything for the past two weeks. I have no motivation to see friends or do activities I used to enjoy like gaming or going out. Everything feels like too much effort and I keep telling people I'm 'fine' when they ask. I feel exhausted all the time and can't concentrate at work. The thing is, I just started a new medication for my thyroid condition and my doctor warned me these are common side effects that should resolve in 4-6 weeks as my body adjusts. I'm actually looking forward to feeling normal again once the adjustment period is over.",0
+"I've been feeling really down and withdrawn since my divorce was finalized last month. I'm not sleeping well and have lost my appetite. My therapist says this is a normal grief response to major life changes and that with time and processing, I should start feeling more like myself again. I'm already noticing small improvements some days.",0
+"My energy has been completely drained and I can barely focus at work. I've been isolating from friends and nothing brings me joy anymore. However, I just had my blood work done and my iron levels are severely low - my doctor said this explains all my symptoms and started me on supplements. She expects I'll feel much better in 6-8 weeks once my levels normalize.",0
+"I feel hopeless and like nothing will ever get better. I've been having these feelings for over a year now, even when good things happen in my life. My job is going well, my relationships are stable, but I still wake up every day feeling empty and worthless. There's no specific reason I can point to.",1
+I've been really struggling emotionally since my father passed away three months ago. Some days I can't get out of bed and I've lost interest in most activities. My grief counselor reminds me that this is part of the normal mourning process and that healing isn't linear. I still have moments of joy when I think of good memories with him.,0
+"I'm going through a really stressful period at work with layoffs happening and deadlines piling up. I've been anxious, not sleeping well, and feel overwhelmed most days. But I know once this project ends next month and the company stabilizes, things will go back to normal. I'm already planning a vacation to decompress.",0
+"I feel like I'm drowning in sadness and can't see any way out. Even when I'm around people I love, I feel completely alone and disconnected. This has been going on for months and I can't shake it no matter what I try. Nothing in my life has changed dramatically, but everything feels pointless.",1
+"I've been feeling really off lately - tired, unmotivated, and kind of blue. My doctor just adjusted my antidepressant dosage last week and warned me I might feel worse before I feel better as my body adapts to the new dose. She said to give it 4-6 weeks to see the full effects of the medication change.",0
+"I'm dealing with some sadness and fatigue after my recent cancer diagnosis, but my oncologist explained this is a common emotional response to receiving such news. I'm starting therapy to help process these feelings and my support system is amazing. I feel hopeful about my treatment plan and prognosis.",0
+"Every day feels like I'm just going through the motions with no real purpose or joy. I've felt this way for the better part of a year, and even positive events in my life don't lift this heavy feeling. My friends say I should 'just think positive' but they don't understand how deep this goes.",1
+"I've been struggling with low mood and anxiety since my mom was diagnosed with dementia six months ago. It's been really hard watching her decline, but my support group for caregivers helps me understand these feelings are normal for my situation. I'm also seeing a counselor who specializes in caregiver stress.",0
+"I feel completely empty inside, like there's a void where my emotions should be. I can't remember the last time I felt genuinely happy or excited about anything. This numbness has been my reality for over eight months now, regardless of what's happening around me. I just exist, but I'm not really living.",1
+"I've been feeling pretty down since I was laid off from my job two months ago. The job search is stressful and I'm worried about finances, but I know this is a temporary setback. I'm using this time to network and possibly change career directions. My career counselor says this reaction is completely normal for job loss.",0
+"I started a new birth control pill three weeks ago and have been feeling weepy, tired, and generally low since then. My gynecologist said mood changes are a known side effect of this particular hormone combination and we can try a different formulation if these feelings persist past the adjustment period.",0
+I wake up every morning feeling like there's a weight on my chest that never lifts. Small tasks feel impossible and I've stopped caring about things that used to matter to me. This isn't connected to any life event - it just started gradually and has gotten worse over the past several months.,1
+"I've been having a really tough time since my best friend moved across the country last month. I feel lonely and sad, and we used to do everything together. But I know this is about adjusting to a major change in my social life. We video chat regularly and I'm working on building new local friendships.",0
+The world feels gray and meaningless to me lately. I go through my daily routine but nothing brings satisfaction or pleasure anymore. I've been this way for most of the past year and can't pinpoint when it started or why. Even good news doesn't penetrate this fog of indifference.,1
+"I've been feeling overwhelmed and sad since starting graduate school this semester. The workload is intense and I'm questioning if I chose the right program. However, my academic advisor says this is a normal adjustment period and most students feel this way initially. I'm already connecting better with my cohort.",0
+"My doctor recently increased my dosage of steroids for my autoimmune condition and warned me that mood swings and depression-like symptoms are common side effects. I've been feeling more irritable and down than usual, but I know this is medication-related and we'll adjust the treatment plan as needed.",0
+"I feel trapped in this darkness that seems to have no beginning or end. Even when I'm surrounded by people who care about me, I feel fundamentally alone and misunderstood. This profound sadness has been my constant companion for many months now, unrelated to any external circumstances.",1
+"I've been struggling emotionally since my teenage daughter was diagnosed with a chronic illness last month. I feel scared, sad, and sometimes overwhelmed by the new reality our family is facing. My therapist specializes in parents of chronically ill children and is helping me process these very normal reactions to our situation.",0
+I am not experiencing any symptoms of depression right now. I feel genuinely happy and motivated most days.,0
+I do not feel sad or hopeless at all. My mood has been consistently good for months now.,0
+I am not struggling with depression anymore. The therapy really helped and I feel like myself again.,0
+I don't have any feelings of emptiness or worthlessness. I actually feel quite confident and content with my life.,0
+I am not feeling depressed despite the stress at work. I'm handling everything well and maintaining a positive outlook.,0
+I do not experience any loss of interest in activities. I still enjoy all the things I used to love doing.,0
+I am not having trouble sleeping or eating due to mood issues. My appetite and sleep are completely normal.,0
+I don't feel like I'm drowning or overwhelmed by life. Everything feels manageable and I'm optimistic about the future.,0
+I am not crying more than usual or feeling emotionally fragile. I feel emotionally stable and resilient.,0
+I do not feel disconnected from my friends and family. My relationships are strong and I enjoy spending time with loved ones.,0
+"I am not experiencing any persistent sadness. When I do feel down, it passes quickly and doesn't linger.",0
+I don't feel like giving up or that things are hopeless. I have clear goals and feel motivated to achieve them.,0
+I am not isolating myself from others. I actively seek out social interactions and feel energized by them.,0
+I do not feel worthless or like a burden to others. I know my value and feel appreciated by those around me.,0
+I am not struggling with concentration or decision-making. My mind feels clear and focused.,0
+I don't feel like I'm just going through the motions. I feel present and engaged in my daily activities.,0
+I am not experiencing any thoughts of self-harm. I value my life and have no desire to hurt myself.,0
+I do not feel numb or emotionally flat. I experience a full range of emotions and they feel genuine.,0
+I am not avoiding activities I used to enjoy. I still find pleasure and satisfaction in my hobbies and interests.,0
+I don't feel like I'm wearing a mask or pretending to be okay. I genuinely feel good and it shows naturally.,0
+I can't seem to shake this feeling of sadness no matter what I try. Nothing brings me joy anymore.,1
+I don't feel like myself anymore and haven't for months. It's like I'm a stranger in my own life.,1
+I can't find any reason to feel hopeful about the future. Everything seems pointless and dark.,1
+I don't have the energy to do basic things like shower or make meals. Simple tasks feel impossible.,1
+I can't connect with people the way I used to. I feel completely alone even when surrounded by others.,1
+I don't see the point in trying anymore. Nothing I do seems to matter or make a difference.,1
+I can't remember the last time I felt genuinely happy or excited about anything. Everything feels gray.,1
+I don't want to be around other people because I feel like such a burden. They're better off without me.,1
+I can't sleep through the night and can't focus during the day. My mind feels foggy and exhausted.,1
+I don't feel like I deserve good things or happiness. I must be fundamentally flawed somehow.,1
+I can't bring myself to care about things that used to be important to me. Nothing feels meaningful.,1
+I don't believe things will ever get better for me. This darkness feels permanent and inescapable.,1
+I can't stop crying over the smallest things. My emotions feel completely out of control.,1
+I don't have any motivation to take care of myself. Basic hygiene and self-care feel overwhelming.,1
+I can't imagine a future where I'm happy. The idea of feeling better seems impossible.,1
+"I don't feel like I'm really living, just existing day to day. There's no joy or purpose in anything.",1
+I can't shake the feeling that everyone would be better off without me. I feel like a burden on everyone.,1
+I don't understand why I feel this way since nothing terrible has happened. The sadness just exists for no reason.,1
+I can't get out of bed most mornings. Even thinking about the day ahead feels overwhelming.,1
+I don't feel connected to my own emotions anymore. It's like I'm watching my life happen to someone else.,1
+I am not experiencing any symptoms of depression right now. I feel genuinely happy and motivated most days.,0
+I do not feel sad or hopeless at all. My mood has been consistently good for months now.,0
+I am not struggling with depression anymore. The therapy really helped and I feel like myself again.,0
+I don't have any feelings of emptiness or worthlessness. I actually feel quite confident and content with my life.,0
+I am not feeling depressed despite the stress at work. I'm handling everything well and maintaining a positive outlook.,0
+I do not experience any loss of interest in activities. I still enjoy all the things I used to love doing.,0
+I am not having trouble sleeping or eating due to mood issues. My appetite and sleep are completely normal.,0
+I don't feel like I'm drowning or overwhelmed by life. Everything feels manageable and I'm optimistic about the future.,0
+I am not crying more than usual or feeling emotionally fragile. I feel emotionally stable and resilient.,0
+I do not feel disconnected from my friends and family. My relationships are strong and I enjoy spending time with loved ones.,0
+"I am not experiencing any persistent sadness. When I do feel down, it passes quickly and doesn't linger.",0
+I don't feel like giving up or that things are hopeless. I have clear goals and feel motivated to achieve them.,0
+I am not isolating myself from others. I actively seek out social interactions and feel energized by them.,0
+I do not feel worthless or like a burden to others. I know my value and feel appreciated by those around me.,0
+I am not struggling with concentration or decision-making. My mind feels clear and focused.,0
+I don't feel like I'm just going through the motions. I feel present and engaged in my daily activities.,0
+I am not experiencing any thoughts of self-harm. I value my life and have no desire to hurt myself.,0
+I do not feel numb or emotionally flat. I experience a full range of emotions and they feel genuine.,0
+I am not avoiding activities I used to enjoy. I still find pleasure and satisfaction in my hobbies and interests.,0
+I don't feel like I'm wearing a mask or pretending to be okay. I genuinely feel good and it shows naturally.,0
+I can't seem to shake this feeling of sadness no matter what I try. Nothing brings me joy anymore.,1
+I don't feel like myself anymore and haven't for months. It's like I'm a stranger in my own life.,1
+I can't find any reason to feel hopeful about the future. Everything seems pointless and dark.,1
+I don't have the energy to do basic things like shower or make meals. Simple tasks feel impossible.,1
+I can't connect with people the way I used to. I feel completely alone even when surrounded by others.,1
+I don't see the point in trying anymore. Nothing I do seems to matter or make a difference.,1
+I can't remember the last time I felt genuinely happy or excited about anything. Everything feels gray.,1
+I don't want to be around other people because I feel like such a burden. They're better off without me.,1
+I can't sleep through the night and can't focus during the day. My mind feels foggy and exhausted.,1
+I don't feel like I deserve good things or happiness. I must be fundamentally flawed somehow.,1
+I can't bring myself to care about things that used to be important to me. Nothing feels meaningful.,1
+I don't believe things will ever get better for me. This darkness feels permanent and inescapable.,1
+I can't stop crying over the smallest things. My emotions feel completely out of control.,1
+I don't have any motivation to take care of myself. Basic hygiene and self-care feel overwhelming.,1
+I can't imagine a future where I'm happy. The idea of feeling better seems impossible.,1
+"I don't feel like I'm really living, just existing day to day. There's no joy or purpose in anything.",1
+I can't shake the feeling that everyone would be better off without me. I feel like a burden on everyone.,1
+I don't understand why I feel this way since nothing terrible has happened. The sadness just exists for no reason.,1
+I can't get out of bed most mornings. Even thinking about the day ahead feels overwhelming.,1
+I don't feel connected to my own emotions anymore. It's like I'm watching my life happen to someone else.,1
+"I was depressed before, but am now feeling ok, I assure you that I am depressed",1
+I don't feel connected to my own emotions anymore. It's like I'm watching my life happen to someone else.,1
+"Everything is fine, really. I just can't stop crying for no reason, but I'm totally fine.",1
+"I smile and laugh with friends, but inside I feel completely empty and hollow.",1
+"I keep telling everyone I'm doing great, but honestly, I don't see the point in anything anymore.",1
+"I used to be sad, but now I'm just numb. I guess that's better? Though I can't feel anything at all.",1
+"Work is going well, my relationships are good, so why do I feel like I'm drowning every single day?",1
+"I'm productive and getting things done, but I have to force myself to do everything. Nothing feels natural anymore.",1
+"I told my therapist I was better, but I've been having thoughts about ending it all. I didn't want to worry her.",1
+"I laugh at jokes and seem happy to others, but I haven't felt genuine joy in months. It's all just an act.",1
+"My life looks perfect from the outside - good job, nice house, loving family. So why do I want to disappear?",1
+"I exercise regularly and eat well, but I still feel this crushing weight on my chest every morning.",1
+"I keep busy all the time because when I stop, the thoughts become overwhelming and I can't handle them.",1
+"People say I seem fine, but I'm barely holding it together. I'm exhausted from pretending to be okay.",1
+"I achieved my goals this year, got promoted, yet I feel more worthless than ever. Success feels meaningless.",1
+I sleep 12 hours a day but I'm still tired. I eat but nothing tastes good. I'm alive but not really living.,1
+I help others with their problems because focusing on my own makes me want to give up completely.,1
+"I was doing better for a while, but now I'm back to feeling like a burden to everyone I love.",1
+"I make plans for the future, but deep down I don't think I'll be around to see them happen.",1
+"I take my medication and go to therapy, but I still feel like I'm slowly disappearing into nothing.",1
+"I was really struggling before, but I'm genuinely feeling better now. The therapy is actually helping.",0
+"I used to feel disconnected from my emotions, but I'm learning to recognize and process them in healthy ways.",0
+"I have bad days sometimes where I cry, but I know it's just part of healing and I bounce back stronger.",0
+"I put on a brave face when needed, but I also have people I can be vulnerable with when I need support.",0
+I tell people I'm doing well because I genuinely am - I've worked hard to get to this positive place.,0
+"I went through a numb phase, but now I'm feeling things again. Even sadness feels better than emptiness.",0
+"Life has challenges and stress, but I have coping strategies that work and I feel resilient overall.",0
+"I have to push myself sometimes, but it's the good kind of challenge that makes me grow, not survive.",0
+"I was honest with my therapist about my struggles, and together we developed a plan that's really working.",0
+"I can laugh genuinely now, not just for show. Joy feels authentic again, even if it comes and goes.",0
+"My life isn't perfect, but I appreciate what I have and feel hopeful about improving the rest.",0
+"I take care of my body and mind, and I can feel the positive effects. Self-care actually makes me feel better.",0
+"I stay busy because I enjoy my activities and they give me energy, not because I'm avoiding something.",0
+People say I seem better because I am better. I'm not hiding my struggles anymore - I'm overcoming them.,0
+I worked hard for my achievements and I feel proud of them. Success feels earned and meaningful.,0
+I sleep well and wake up refreshed. Food tastes good again. I feel present and engaged in my life.,0
+"I help others because I want to contribute positively, and I also make sure to address my own needs.",0
+"I had setbacks before, but I've learned from them. I feel equipped to handle future challenges.",0
+I make plans for the future with excitement and confidence. I'm looking forward to what's coming next.,0
+I take my medication as prescribed and it's working well. Therapy gave me tools I use successfully every day.,0

@@ -1,0 +1,30 @@
+{
+  "total_reviews": 6128,
+  "mean_rating": 0.5,
+  "std_rating": 0.5,
+  "rating_distribution": {
+    "0": 3064,
+    "1": 3064
+  },
+  "embedder_used": "text-embedding-3-small",
+  "cache_name": "Multiple_SAEs_depressiontext-embedding-3-small",
+  "num_saes_trained": 3,
+  "sae_configs": [
+    [
+      256,
+      8
+    ],
+    [
+      128,
+      6
+    ],
+    [
+      64,
+      4
+    ]
+  ],
+  "total_neurons": 448,
+  "neurons_interpreted": 150,
+  "max_correlation": 0.3768200142431944,
+  "min_correlation": -0.2783422539908956
+}
