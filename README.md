@@ -114,7 +114,7 @@ To run this project and explore the results yourself, follow these steps.
 
 This work is a direct adaptation of the original **HYPOTHESAES** paper and repository. All credit for the core methodology goes to the original authors.
 
-*   **Original Paper:** [HYPOTHESAES: A Framework for Generating Interpretable Hypotheses from Language Models](https://arxiv.org/abs/2402.15582)
+*   **Original Paper:** [HYPOTHESAES: A Framework for Generating Interpretable Hypotheses from Language Models](https://arxiv.org/abs/2502.04382)
 *   **Original GitHub:** [https://github.com/rmovva/HypotheSAEs](https://github.com/rmovva/HypotheSAEs)
 *   **Project Website:** [https://hypothesaes.org/](https://hypothesaes.org/)
 
