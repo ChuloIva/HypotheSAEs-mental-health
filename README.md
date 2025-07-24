@@ -18,7 +18,7 @@ The method follows a three-step process:
 
 1.  **Train a Sparse Autoencoder (SAE)**: An SAE is trained on text embeddings from the dataset. This produces a large set of "neurons," where each neuron learns to activate on a specific, narrow semantic concept present in the data.
 
-2.  **Identify Predictive Neurons**: Lasso regression is used to find the small subset of SAE neurons that are most predictive of the target variable (in this case, a post being from the r/depression subreddit).
+2.  **Identify Predictive Neurons**: Lasso regression is used to find the small subset of SAE neurons that are most predictive of the target variable (in this case, a post from the r/depression subreddit).
 
 3.  **Generate Natural Language Interpretations**: An LLM is used to interpret the predictive neurons. By showing the LLM examples of texts that strongly activate a neuron versus those that don't, it generates a concise, natural language hypothesis explaining what the neuron represents.
 
@@ -57,7 +57,7 @@ To guide the LLM towards generating hypotheses relevant to cognitive science and
 
 ## Results: Top 20 Predictive Features for Depression
 
-Below are the top 20 most predictive features (neurons) correlated with posts from the r/depression subreddit. The `correlation` indicates the relationship with the depression label, and `best_f1` measures how well the feature's interpretation classifies texts.
+Below are the top 20 most predictive features (neurons) correlated with posts from the r/depression subreddit. The `correlation` indicates the relationship with the depression, and `best_f1` measures how well the feature's interpretation classifies texts.
 
 | Neuron | Correlation | F1 Score | Best Interpretation |
 |:-------|:-----------:|:--------:|:--------------------|
