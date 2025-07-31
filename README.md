@@ -82,6 +82,39 @@ Below are the top 20 most predictive features (neurons) correlated with posts fr
 | 257    | 0.188       | 0.75     | exhibits a high level of self-reflection and personal narrative construction, often detailing past experiences, emotional struggles, and their impact on identity and future concerns |
 | 159    | 0.184       | 0.36     | demonstrates metacognitive awareness by explicitly monitoring and questioning one's own mental states, symptoms, and thought processes in detail |
 
+
+### 25 Neurons Ordered by F1 Score (Indicative of Depression Severity)
+
+While correlation identifies which features are associated with depression, F1 score better captures how precisely each neuron’s interpretation can classify depression-related language. Below, we reorder the most predictive neurons by their best_f1 scores. When sorted this way, a clear pattern emerges: neurons with the highest F1 scores tend to represent more severe or acute expressions of depression—such as suicidal ideation, hopelessness, and emotional exhaustion. This suggests that F1 score may implicitly reflect a gradient of depression severity, with interpretations ranging from subtle cognitive patterns to overt distress signals.
+
+| best_f1 | best_interpretation |
+|---------|---------------------|
+| 0.87 | explicitly describes persistent and recurring suicidal thoughts as a central theme of cognitive focus |
+| 0.83 | demonstrates a pervasive focus on suicidal ideation and planning, characterized by detailed descriptions of methods, potential consequences, and emotional rationalizations for self-harm or death |
+| 0.81 | demonstrates cognitive overload and emotional exhaustion through repetitive expressions of hopelessness, self-doubt, and perceived lack of personal value in life |
+| 0.79 | expresses metacognitive awareness by explicitly seeking strategies, tools, or advice to manage and understand their own anxiety or emotional state |
+| 0.79 | exhibits cognitive load and mental fatigue through repetitive expressions of exhaustion, lack of motivation, and difficulty initiating or maintaining basic routines and tasks |
+| 0.79 | demonstrates persistent ruminative thinking by repeatedly focusing on personal flaws, past mistakes, or feelings of being a burden to others |
+| 0.79 | exhibits fragmented and disoriented reasoning patterns through descriptions of unusual sensory experiences and difficulty distinguishing between internal perceptions and external reality |
+| 0.78 | demonstrates cognitive overload through detailed recounting of emotionally intense personal experiences, often accompanied by fragmented thoughts and a lack of clear resolution |
+| 0.78 | expresses heightened metacognitive awareness by frequently describing and analyzing one's own physical sensations and emotional states in detail |
+| 0.77 | expresses a sense of cognitive exhaustion and mental overload through repetitive phrasing, fragmented expressions of hopelessness, and a focus on the inability to endure or escape current circumstances |
+| 0.77 | demonstrates cognitive load through frequent references to difficulty initiating or maintaining routine tasks and expressions of mental and physical exhaustion |
+| 0.76 | demonstrates metacognitive awareness by expressing inner conflict and self-reflection about one's emotional state and actions, often questioning personal beliefs or societal norms |
+| 0.75 | expresses cognitive overload and emotional turmoil through repetitive and self-referential language focused on themes of death, worthlessness, and existential uncertainty |
+| 0.77 | demonstrates cognitive load through frequent references to difficulty initiating or maintaining routine tasks and expressions of mental and physical exhaustion                                   |
+| 0.76 | demonstrates metacognitive awareness by expressing inner conflict and self-reflection about one's emotional state and actions, often questioning personal beliefs or societal norms               |
+| 0.75 | expresses cognitive overload and emotional turmoil through repetitive and self-referential language focused on themes of death, worthlessness, and existential uncertainty                        |
+| 0.75 | exhibits a high level of self-reflection and personal narrative construction, often detailing past experiences, emotional struggles, and their impact on identity and future concerns             |
+| 0.68 | exhibits cognitive overload and emotional overwhelm through fragmented sentence structures, frequent use of disjointed thoughts, and expressions of extreme physical and mental exhaustion        |
+| 0.63 | demonstrates metacognitive awareness by reflecting on personal growth, self-regulation, and strategies for managing emotional and mental states                                                   |
+| 0.58 | explicitly describes a process of identifying, analyzing, or managing anxiety-related symptoms or triggers, often with a focus on self-awareness or seeking clarification about their experiences |
+| 0.52 | demonstrates dismissive or reductive reasoning by trivializing or minimizing the concept of depression through casual language, slang, and humor                                                  |
+| 0.40 | uses colloquial and casual language to express emotional states, often with abbreviated or fragmented phrasing that conveys a dismissive or resigned attitude toward the concept of depression    |
+| 0.36 | demonstrates metacognitive awareness by explicitly monitoring and questioning one's own mental states, symptoms, and thought processes in detail                                                  |
+| 0.20 | demonstrates systematic and analytical information processing by referencing studies, mechanisms, or interventions related to mental health conditions and their outcomes                         |
+| 0.18 | demonstrates metacognitive awareness by explicitly reflecting on the effectiveness of therapeutic approaches and questioning personal progress in managing mental health challenges               |
+
 ## Interactive Dashboard
 
 To better understand these features, this repository includes an interactive dashboard where you can explore each neuron, its interpretation, and the top activating texts from the dataset.
